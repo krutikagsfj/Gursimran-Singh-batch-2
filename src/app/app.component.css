@@ -1,0 +1,11 @@
+table {
+  width: 50%;
+  border: 2px;
+}
+
+th.mat-sort-header-sorted {
+  color:darkblue;
+}
+th {
+  cursor: pointer;
+}
